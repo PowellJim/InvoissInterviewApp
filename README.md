@@ -46,8 +46,10 @@ You should be able to see this App Screen once your app is loaded on iOS Simulat
 ## Your Task, Choose Between Option A , Option B, or Option C
 
 <h1>Option A, Horrizontal Scrolling Effect </h1>
+
 - Create this feature below within the given boiler plate app.
   *Note:* if the gif below doesnt load correctly, try this link for the full demo video : [Demo Video](https://reactnative.dev/docs/environment-setup)
+  
   <h1 align="center"><img src="./ReadMeAssets/app-example.gif" width="200"></h1>
 
 <h4> Create this feature in the "Home" Screen of the boilerplate App. </h4>
