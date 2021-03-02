@@ -51,9 +51,11 @@ Create this feature below within the given boiler plate app.
 
 Your Task is to a create a custom horizontally scrolling category section where as the user scrolls down, 
 then the categories on the top also scroll horizontally and move. 
-create a feature using a map and not a FlatList. 
-
+create this feature using a map/filter and not a FlatList. 
 User should also be able to click on any of these categories and the page should scroll down to that section. 
+
+You may use the Reanimated API V2.
+
 
 
 
