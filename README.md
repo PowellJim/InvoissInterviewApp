@@ -7,7 +7,6 @@
 ## Installation
 
 <div align="center">
-
 Make sure your environment is set up correctly according to the  
 [React Native Set-Up Docs](https://reactnative.dev/docs/environment-setup) 
 before you attend the interview question
@@ -40,8 +39,8 @@ npx react-native run-ios
 
 
 <h3 align="center">
-You should be able to see this App Screen once your app is loaded on iOS Simulator. </br>
-<img src="./ReadMeAssets/app-screen.png">
+You should be able to see this App Screen once your app is loaded on iOS Simulator. </br></br>
+<img src="./ReadMeAssets/app-screen.png" width="200">
 </h3>
 
 ## Your Task
