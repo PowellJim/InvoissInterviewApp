@@ -62,8 +62,8 @@ You should be able to see this App Screen once your app is loaded on iOS Simulat
 
 <h1>Option B, Document Uploading </h1>
 
-<h2>The second part of your interview is to create an document/image/video attachment feature.</h2>
-- Add a button that pops a modal which asks the user what kind of document they would like to upload, they can choose a picture, or video from their gallary, and   upload it to the empty screen. 
+**Create this feature in the "Feature" Screen of the boilerplate App.**
+- Add a button that pops a modal which asks the user what kind of document they would like to upload, they can choose a picture, or video from their gallary, and   upload it to the empty screen.
 
 
 
