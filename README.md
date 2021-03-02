@@ -49,12 +49,15 @@ Create this feature below within the given boiler plate app.
 **Note:** if the gif below doesnt load correctly, try this link for the demo video : [Demo Video](https://reactnative.dev/docs/environment-setup)
 <h1 align="center"><img src="./ReadMeAssets/app-example.gif" width="200"></h1>
 
-Your Task is to a create a custom horizontally scrolling category section where as the user scrolls down, 
-then the categories on the top also scroll horizontally and move. 
+Your task is to a create a custom horizontally scrolling category section where as the user scrolls down the page, 
+then the categories on the top also scroll horizontally and shift over. 
 create this feature using a map/filter and not a FlatList. 
 User should also be able to click on any of these categories and the page should scroll down to that section. 
 
 You may use the Reanimated API V2.
+
+
+
 
 
 
