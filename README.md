@@ -43,7 +43,7 @@ You should be able to see this App Screen once your app is loaded on iOS Simulat
 <img src="./ReadMeAssets/app-screen.png" width="200">
 </h3>
 
-## Your Task, Choose 2 of the below Options and complete the tasks. 
+## Your Task : Choose 2 of the below Options and complete the tasks. 
 
 <h1>Option A, Horrizontal Scrolling Effect </h1>
 
