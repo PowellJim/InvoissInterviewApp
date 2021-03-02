@@ -7,8 +7,8 @@
 ## Installation
 
 <div align="center">
-Make sure your environment is set up correctly according to the  
-[React Native Set-Up Docs](https://reactnative.dev/docs/environment-setup) 
+  
+Make sure your environment is set up correctly according to the [React Native Set-Up Docs](https://reactnative.dev/docs/environment-setup) 
 before you attend the interview question
 </div> 
 
