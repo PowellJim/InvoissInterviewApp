@@ -3,9 +3,9 @@ import { createMaterialBottomTabNavigator } from '@react-navigation/material-bot
 import Icon from 'react-native-vector-icons/Ionicons';
 
 import HomeScreen from '../Views/HomeScreen';
-import FeatureScreen from '../Views/FeatureScreen';
-import ChatScreen from '../Views/ChatScreen';
-import ProfileScreen from '../Views/ProfileScreen';
+import FeatureOne from '../Views/FeatureOne';
+import FeatureTwo from '../Views/FeatureTwo';
+import FeatureThree from '../Views/FeatureThree';
 
 const Tab = createMaterialBottomTabNavigator();
 
@@ -28,32 +28,32 @@ function MainTabScreen() {
                 }}
             />
             <Tab.Screen
-                name="Feature"
-                component={FeatureScreen}
+                name="FeatureOne"
+                component={FeatureOne}
                 options={{
-                    tabBarLabel: 'Feature',
+                    tabBarLabel: 'FeatureOne',
                     tabBarIcon: ({ color }) => (
                         <Icon name="cube" color={color} size={26} />
                     ),
                 }}
             />
             <Tab.Screen
-                name="Chat"
-                component={ChatScreen}
+                name="FeatureTwo"
+                component={FeatureTwo}
                 options={{
-                    tabBarLabel: 'Chat',
+                    tabBarLabel: 'FeatureTwo',
                     tabBarIcon: ({ color }) => (
-                        <Icon name="chatbox-outline" color={color} size={26} />
+                        <Icon name="cube" color={color} size={26} />
                     ),
                 }}
             />
             <Tab.Screen
-                name="Profile"
-                component={ProfileScreen}
+                name="FeatureThree"
+                component={FeatureThree}
                 options={{
-                    tabBarLabel: 'Profile',
+                    tabBarLabel: 'FeatureThree',
                     tabBarIcon: ({ color }) => (
-                        <Icon name="ios-person" color={color} size={26} />
+                        <Icon name="cube" color={color} size={26} />
                     ),
                 }}
             />

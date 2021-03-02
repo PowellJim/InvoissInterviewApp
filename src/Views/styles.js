@@ -7,25 +7,25 @@ const HomeScreenStyles = StyleSheet.create({
         alignItems: 'center'
     }
 });
-const FeatureScreenStyles = StyleSheet.create({
+const FeatureOneStyles = StyleSheet.create({
     MainContainer: {
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center'
     }
 });
-const ChatScreenStyles = StyleSheet.create({
+const FeatureTwoStyles = StyleSheet.create({
     MainContainer: {
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center'
     }
 });
-const ProfileScreenStyles = StyleSheet.create({
+const FeatureThreeStyles = StyleSheet.create({
     MainContainer: {
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center'
     }
 });
-export { HomeScreenStyles, FeatureScreenStyles, ChatScreenStyles, ProfileScreenStyles };
+export { HomeScreenStyles, FeatureOneStyles, FeatureTwoStyles, FeatureThreeStyles };

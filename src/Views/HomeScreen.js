@@ -6,6 +6,7 @@ const HomeScreen = ({ navigation }) => {
     return (
         <View style={styles.MainContainer}>
             <Text>HomeScreen</Text>
+            <Text>Leave This Screen Empty</Text>
         </View>
     );
 }
