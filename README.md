@@ -50,10 +50,7 @@ Create this feature below within the given boiler plate app.
 <h1 align="center"><img src="./ReadMeAssets/app-example.gif" width="200"></h1>
 
 <h4> Create this feature in the "Home" Screen of the boilerplate App. </h4>
-- Your task is to a create a custom horizontally scrolling category section so that as the user scrolls down the page, 
-then the categories on the top also scroll horizontally and shift over. 
-create this feature using a map/filter and not a FlatList. 
-User should also be able to click on any of these categories and the page should scroll down to that section. 
+- Your task is to a create a custom horizontally scrolling category section so that as the user scrolls down the page, then the categories on the top also scroll horizontally and shift over. create this feature using a map/filter and not a FlatList. User should also be able to click on any of these categories and the page should scroll down to that section. 
 
 You may use the Reanimated API V2.
 
@@ -61,8 +58,7 @@ You may use the Reanimated API V2.
 
 
 <h2>The second part of your interview is to create an document/image/video attachment feature.</h2>
-- Add a button that pops a modal which asks the user what kind of document they would like to upload, 
-they can choose a picture, or video from their gallary, and upload it to the empty screen. 
+- Add a button that pops a modal which asks the user what kind of document they would like to upload, they can choose a picture, or video from their gallary, and upload it to the empty screen. 
 
 
 
