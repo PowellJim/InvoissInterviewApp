@@ -50,7 +50,7 @@ You should be able to see this App Screen once your app is loaded on iOS Simulat
 - Create this feature below within the given boiler plate app.
   *Note:* if the gif below doesnt load correctly, try this link for the full demo video : [Demo Video](https://reactnative.dev/docs/environment-setup)
   
- <img src="./ReadMeAssets/app-example.gif" width="200" align="center">
+ <p align="center"><img src="./ReadMeAssets/app-example.gif" width="200"> </p>
 
 **Create this feature in the "Home" Screen of the boilerplate App. 
 
