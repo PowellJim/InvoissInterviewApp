@@ -43,7 +43,7 @@ You should be able to see this App Screen once your app is loaded on iOS Simulat
 <img src="./ReadMeAssets/app-screen.png" width="200">
 </h3>
 
-## Your Task, Choose Between Option A , Option B, or Option C
+## Your Task, Choose 2 of the below Options and complete the tasks. 
 
 <h1>Option A, Horrizontal Scrolling Effect </h1>
 
@@ -52,7 +52,7 @@ You should be able to see this App Screen once your app is loaded on iOS Simulat
   
  <p align="center"><img src="./ReadMeAssets/app-example.gif" width="200"> </p>
 
-**Create this feature in the "Home" Screen of the boilerplate App.**
+**Create this feature in the "Feature 1" Screen of the boilerplate App.**
 
 - Your task is to a create a custom horizontally scrolling category section so that as the user scrolls down the page, then the categories on the top also scroll   horizontally and shift over. create this feature using a map/filter and not a FlatList. User should also be able to click on any of these categories and the     page should scroll down to that section.
 
@@ -66,14 +66,22 @@ You should be able to see this App Screen once your app is loaded on iOS Simulat
   *Note:* if the gif below doesnt load correctly, try this link for the full demo video : [Demo Video](https://reactnative.dev/docs/environment-setup)
  <p align="center"><img src="./ReadMeAssets/app-example2.gif" width="200"></p>
 
-**Create this feature in the "Feature" Screen of the boilerplate App.**
+**Create this feature in the "Feature 2" Screen of the boilerplate App.**
 - Add a button that pops a modal which asks the user what kind of document they would like to upload, they can choose a picture, or video from their gallary, and   upload it to the empty screen.
 
 
 
+<h1>Option C, Shared Element Transition </h1>
 
+- Create this feature below within the given boiler plate app.
+  *Note:* if the gif below doesnt load correctly, try this link for the full demo video : [Demo Video](https://reactnative.dev/docs/environment-setup)
+ <p align="center"><img src="./ReadMeAssets/app-example3.gif" width="200"></p>
 
-<h1>Option C, Document Uploading </h1>
+**Create this feature in the "Feature 3" Screen of the boilerplate App.**
+- You may create a Card that once it is clicked, it wil fill the full page. And once full page, the page can be dragged around and let go to fit back to card position.
+- You may use the react-native-shared-element and gesture handler/transition API to implement this.
+
+<h1> </h1>
 
 
 
