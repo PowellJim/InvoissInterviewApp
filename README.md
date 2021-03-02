@@ -62,8 +62,14 @@ You should be able to see this App Screen once your app is loaded on iOS Simulat
 
 <h1>Option B, Document Uploading </h1>
 
+- Create this feature below within the given boiler plate app.
+  *Note:* if the gif below doesnt load correctly, try this link for the full demo video : [Demo Video](https://reactnative.dev/docs/environment-setup)
+ <p align="center"><img src="./ReadMeAssets/app-example2.gif" width="200"></p>
+
 **Create this feature in the "Feature" Screen of the boilerplate App.**
 - Add a button that pops a modal which asks the user what kind of document they would like to upload, they can choose a picture, or video from their gallary, and   upload it to the empty screen.
+
+
 
 
 
