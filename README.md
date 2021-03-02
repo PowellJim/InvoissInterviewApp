@@ -51,7 +51,8 @@ You should be able to see this App Screen once your app is loaded on iOS Simulat
   <h1 align="center"><img src="./ReadMeAssets/app-example.gif" width="200"></h1>
 
 <h4> Create this feature in the "Home" Screen of the boilerplate App. </h4>
-- Your task is to a create a custom horizontally scrolling category section so that as the user scrolls down the page, then the categories on the top also scroll   horizontally and shift over. create this feature using a map/filter and not a FlatList. User should also be able to click on any of these categories and the     page should scroll down to that section. 
+ 
+- Your task is to a create a custom horizontally scrolling category section so that as the user scrolls down the page, then the categories on the top also scroll   horizontally and shift over. create this feature using a map/filter and not a FlatList. User should also be able to click on any of these categories and the     page should scroll down to that section.
 
 - You may use the Reanimated API V2.
 
