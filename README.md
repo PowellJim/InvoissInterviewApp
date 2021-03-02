@@ -1,8 +1,6 @@
-
-
-[<h1 align="center"><img width="500" src="./ReadMeAssets/Invoiss-logo.png"></h1>](https://invoiss.com)
-
 <div align="center">
+<img width="500" src="./ReadMeAssets/Invoiss-logo.png">](https://invoiss.com)
+
 <h1>Welcome to the Invoiss React-Native Interview Question</h1> 
 </div> 
 
