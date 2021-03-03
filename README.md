@@ -4,7 +4,7 @@
 <h1>Welcome to Invoiss React-Native Technical Interview</h1> 
 </div> 
 
-## Installation
+## Installation:
 
 <div align="center">
   
